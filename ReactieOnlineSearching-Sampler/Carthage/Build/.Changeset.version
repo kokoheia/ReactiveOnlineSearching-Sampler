@@ -1,0 +1,9 @@
+{
+  "commitish" : "v3.1.1",
+  "iOS" : [
+    {
+      "name" : "Changeset",
+      "hash" : "102572d8a3e87cf2b93ba6a1cfb4e8c0192523d301419ad14675f6243e5d4686"
+    }
+  ]
+}

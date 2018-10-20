@@ -70,8 +70,8 @@
 		55EEE0C2217AE4F800083B29 /* ReactieOnlineSearching-Sampler */ = {
 			isa = PBXGroup;
 			children = (
-				55EEE0C3217AE4F800083B29 /* AppDelegate.swift */,
 				55EEE0C5217AE4F800083B29 /* HomeViewController.swift */,
+				55EEE0C3217AE4F800083B29 /* AppDelegate.swift */,
 				55EEE0C7217AE4F800083B29 /* Main.storyboard */,
 				55EEE0CA217AE4FB00083B29 /* Assets.xcassets */,
 				55EEE0CC217AE4FB00083B29 /* LaunchScreen.storyboard */,
@@ -172,7 +172,7 @@
 				"$(SRCROOT)/Carthage/Build/iOS/ReactiveCocoa.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/ReactiveSwift.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/ReactiveMapKit.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/Reasult.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Result.framework",
 			);
 			outputFileListPaths = (
 			);

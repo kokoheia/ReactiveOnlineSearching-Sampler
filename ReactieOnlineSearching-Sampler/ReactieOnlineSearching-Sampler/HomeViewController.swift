@@ -11,10 +11,11 @@ import UIKit
 class HomeViewController: UIViewController {
 
     @IBOutlet weak var searchBar: UISearchBar!
+    @IBOutlet weak var navigationBar: UINavigationBar!
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+
     }
 
 

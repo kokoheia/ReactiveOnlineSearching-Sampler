@@ -12,6 +12,9 @@ class HomeViewController: UIViewController {
 
     @IBOutlet weak var searchBar: UISearchBar!
     @IBOutlet weak var navigationBar: UINavigationBar!
+    @IBOutlet weak var tableView: UITableView!
+    
+    private let trackCell = "trackCell"
     
     override func viewDidLoad() {
         super.viewDidLoad()

@@ -65,8 +65,8 @@
                                             </constraints>
                                         </tableViewCellContentView>
                                         <connections>
-                                            <outlet property="artistLabel" destination="hvG-dO-RmS" id="zDZ-Ue-wTs"/>
-                                            <outlet property="titleLabel" destination="R2c-CP-aZ3" id="gQX-vU-1a2"/>
+                                            <outlet property="artistLabel" destination="hvG-dO-RmS" id="O2o-fW-Ifx"/>
+                                            <outlet property="titleLabel" destination="R2c-CP-aZ3" id="42M-yx-ZcF"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>

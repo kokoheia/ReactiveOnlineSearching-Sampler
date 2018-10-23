@@ -5,7 +5,7 @@ ReactiveOnlineSearching-Sampler is a sampler for the project of [kokoheia/Reacti
 
 The purpose of this sampler is to learn the fundamentals of [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa), [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift), and MVVM design pattern.
 
-Check [here](https://qiita.com/kokoheia/items/812a8f9036b75e978f85) to start implementing the project.
+Follow [this tutorial](https://qiita.com/kokoheia/items/812a8f9036b75e978f85) to implement the project.
 
 ## Reference
 - [ReactiveSwift Example: Online Searching](https://github.com/ReactiveCocoa/ReactiveSwift/blob/master/Documentation/Example.OnlineSearch.md)
